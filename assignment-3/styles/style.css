@@ -1,0 +1,28 @@
+/* font femily link  */
+@import url('https://fonts.googleapis.com/css2?family=Bebas+Neue&family=Poppins:wght@500;700&family=Roboto:wght@500;700;900&display=swap');
+/*
+font-family: 'Bebas Neue', cursive;
+font-family: 'Poppins', sans-serif;
+font-family: 'Roboto', sans-serif;
+ */
+ body{
+    font-family: 'Poppins', sans-serif;
+   
+ } 
+ .carousel-item img{
+    opacity: .8;
+ }
+ .carousel-item{
+    height: 60vh;
+ }
+ p{
+    font-size: 20px;
+ }
+
+ @media (max-width: 690px) {
+   .carousel-item img{
+      height: 60vh;
+   }
+   
+  
+ }   
