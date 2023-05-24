@@ -1,10 +1,6 @@
 /* font femily link  */
 @import url('https://fonts.googleapis.com/css2?family=Bebas+Neue&family=Poppins:wght@500;700&family=Roboto:wght@500;700;900&display=swap');
-/*
-font-family: 'Bebas Neue', cursive;
-font-family: 'Poppins', sans-serif;
-font-family: 'Roboto', sans-serif;
- */
+
  body{
     font-family: 'Poppins', sans-serif;
    
